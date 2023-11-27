@@ -1,0 +1,42 @@
+.titulo{
+  font-size: 50px;
+  color: brown;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.post{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: rgb(98, 0, 0);
+  text-align: center;
+}
+
+.check{
+  background: rgb(59, 7, 7);
+}
+
+.bttn{
+  border-radius: 90px;
+}
+
+.formInp{
+  background: rgb(89, 87, 87);
+  align-content: center;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.inpt{
+  border-radius: 90px;
+}
+
+.progress{
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: rgb(61, 6, 6);
+  flex-direction: column;
+  align-items: center;
+}
